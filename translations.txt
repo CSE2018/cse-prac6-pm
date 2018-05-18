@@ -2,7 +2,7 @@ red: punane
 white: punane
 green: punane
 yellow: kollane
-north:
-south:
-east:
-west:
+north: põhi
+south: lõuna
+east: ida
+west: lääs
